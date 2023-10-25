@@ -1,7 +1,9 @@
 # NLP-Reasearch
 My Wiki for NLP research. All rights to the original author of all if there is any wrong please contact me 📂 (2646769409@qq.com) as soon as possible to do delete processing.
 
-## Curent Work
+## Curent Work Introduction
+
+## Previous Work
 
 ## Static NLP
 
