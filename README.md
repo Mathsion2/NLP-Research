@@ -11,7 +11,7 @@ My Wiki for NLP research. All rights to the original author of all if there is a
 
 ### Taibao
 
-Taibao, an IP services large language model.
+(2023/10/01 - now)Taibao, an IP services large language model.
 
 [Github](https://github.com/Mathsion2/Taibao) | [Project Address](http://taibao-ip.help/)
 
