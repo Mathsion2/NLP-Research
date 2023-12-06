@@ -2,11 +2,16 @@
 
 ## Content
 - [My Work](#My-Work)
-- [Related Paper](#Related-Paper)
+- [Related Sources](#Related-Sources)
 - [My Notes](#My-Notes)
 
 ## My-Work
 
-## Related-Paper
+## Related-Sources
+
+### Papers
+
+### Github Repositories
+- (A-Guide-to-Retrieval-Augmented-LLM)[https://github.com/Wang-Shuo/A-Guide-to-Retrieval-Augmented-LLM]
 
 ## My-Notes
