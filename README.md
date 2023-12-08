@@ -6,6 +6,7 @@ My Wiki for NLP research. All rights to the original author of all if there is a
   - [Taibao](#Taibao)
 - [Recent Work](#Recent-Work)
 - [Topics](#Topics)
+  - [RAG](RAG(Retrieval-Augmented-Generation-LLM)) 
 
 ## Curent-Work
 
@@ -19,6 +20,6 @@ My Wiki for NLP research. All rights to the original author of all if there is a
 
 ## Topics
 
-### RAG(Retrieval Augmented Generation-LLM)
+### RAG(Retrieval-Augmented-Generation-LLM)
 [Details](./Topics/RAG.md)
 
